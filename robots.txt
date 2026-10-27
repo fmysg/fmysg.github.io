@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
+Disallow: /crawl-fixture/v1/entry/robots-denied/
 Sitemap: https://fmysg.github.io/sitemap.xml

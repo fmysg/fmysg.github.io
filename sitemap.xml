@@ -6,4 +6,6 @@
   <url><loc>https://fmysg.github.io/target-a.html</loc></url>
   <url><loc>https://fmysg.github.io/target-b.html</loc></url>
   <url><loc>https://fmysg.github.io/nested/target-c.html</loc></url>
+  <url><loc>https://fmysg.github.io/crawl-fixture/v1/entry/index.html</loc></url>
+  <url><loc>https://fmysg.github.io/crawl-fixture/v1/entry/single/sitemap-only.html</loc></url>
 </urlset>
